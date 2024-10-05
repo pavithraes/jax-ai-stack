@@ -13,7 +13,7 @@ kernelspec:
 
 +++ {"id": "AEQPh3NtawWA"}
 
-# Getting started with JAX
+# Getting started with JAX for AI
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jax-ml/jax-ai-stack/blob/main/docs/getting_started_with_jax_for_AI.ipynb)
 
